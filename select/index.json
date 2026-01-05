@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "優しい君へ (Chamber Arrangement)",
+  "base_artist": "Nornis",
+  "createdAt": "2026-01-05T07:40:29.344075Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しい君へ",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_優しい君へ_Nornis.txt"
+    }
+  ]
+}
